@@ -36,7 +36,7 @@ YT_API_KEY = "sparrow123"
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ppppprivate/RessoMusic",
+    "https://github.com/legendtosu786/TSXRT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
